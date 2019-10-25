@@ -18,5 +18,10 @@ Usefull tips and tricks and platforms for an Open Training Format
 ## Tasks
 - [x] Create Repository for Tips
 - [ ] link to good markdown Tutorials
-- [ ] create access for the team
+- [x] create access for the team
+- [ ] check out other platforms like Wikifab.org
+
+
+## Resources
+- Markdown Tutorial 1: LINK
 
