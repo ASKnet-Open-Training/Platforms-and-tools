@@ -23,5 +23,5 @@ Usefull tips and tricks and platforms for an Open Training Format
 
 
 ## Resources
-- Markdown Tutorial 1: LINK
+- Markdown Tutorial 1: LINK [LINK](https://www.markdowntutorial.com/)
 
