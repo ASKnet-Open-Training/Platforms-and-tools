@@ -24,4 +24,5 @@ Usefull tips and tricks and platforms for an Open Training Format
 
 ## Resources
 - Markdown Tutorial 1: LINK [LINK](https://www.markdowntutorial.com/)
+- Wikifab - Create an account here : Link [LINK](https://wikifab.org/wiki/Accueil)
 
